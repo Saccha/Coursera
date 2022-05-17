@@ -1,0 +1,4 @@
+guerra;1;28
+paz;1;28
+paz;1;22
+fela;1;10
